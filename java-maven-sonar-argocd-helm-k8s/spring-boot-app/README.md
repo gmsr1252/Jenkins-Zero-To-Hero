@@ -67,3 +67,14 @@ cd /home/sonarqube/sonarqube-9.4.0.54424/bin/linux-x86-64/
 Hurray !! Now you can access the `SonarQube Server` on `http://<ip-address>:9000` 
 
 
+
+## Next Steps
+
+### Configure a ArgoCD AWS EC2 instance (minimum t2.large with 40GB space)
+
+## Install minikube
+
+https://crishantha.medium.com/running-minikube-on-aws-ec2-e845337a956
+
+
+

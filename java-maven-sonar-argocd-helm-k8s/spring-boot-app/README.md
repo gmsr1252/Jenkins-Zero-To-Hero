@@ -76,5 +76,9 @@ Hurray !! Now you can access the `SonarQube Server` on `http://<ip-address>:9000
 
 https://crishantha.medium.com/running-minikube-on-aws-ec2-e845337a956
 
+## Install ArgoCD
+
+https://operatorhub.io/operator/argocd-operator
+
 
 
